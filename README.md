@@ -14,7 +14,7 @@ Hi there, I'm **Pika**! 👋
 <p align="left">
   <a href="https://github.com/pikadv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://bd.linkedin.com/in/tajbiul">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
