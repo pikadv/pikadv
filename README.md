@@ -12,11 +12,20 @@ Hi there, I'm **Pika**! 👋
 
 ## 🌐 Connect with Me  
 <p align="left">
+  <a href="https://facebook.com/prann.taj">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://instagram.com/prann.taj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://github.com/pikadv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://bd.linkedin.com/in/tajbiul">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://linktr.ee/pikadv">
+    <img src="https://img.shields.io/badge/Linktree-39e09b?style=flat&logo=linktree&logoColor=white" alt="Linktree"></a>
 </p>
 
 ---
@@ -38,18 +47,4 @@ Did you know? The first website ever made is still online! Check it out [here](h
 
 ---
 
-🎉 Thanks for stopping by! Feel free to explore my repositories and connect with me.  
-
-
-
-<!---
-- 👋 Hi, I’m ...
-- 👀 I’m interested in ....
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-pikadv/pikadv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎉 Thanks for stopping by! Feel free to explore my repositories and connect with me.
